@@ -1,0 +1,6 @@
+{
+  "name": "Slmp-fe",
+  "tagline": "SLMP PHP (Front-End)",
+  "body": "### Description\r\nThis project hosts the web front-end for Seven Labs Messaging Protocol. It was created in PHP 5.3 and remains compliant with HTML5 and CSS3. Currently the project remains inactive while we work on the back end of SLMP.\r\n \r\n### Prerequisites \r\n * PHP 5.3+\r\n * PHP Modules: cURL, mysql/sqlite\r\n * MySQL 5.5+ (or some other data source compatible with Syslog-DB formatting)\r\n\r\n### Authors and Contributors\r\n * @samuelwalton\r\n * @sevenlabs\r\n * Ethan I",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
